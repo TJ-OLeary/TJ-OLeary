@@ -37,7 +37,7 @@ of admission.
 ## Tools & Stack
 
 `Linux` `Python` `Bash` `Kali` `Nmap` `Metasploit` `Burp Suite`
-`Wireshark` `Git` `Rust (learning)` `Go (learning)`
+`Wireshark` `Git` `Rust (learning)` `Go (learning)` `Javascript` `Typescript`
 
 ---
 
