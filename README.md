@@ -1,4 +1,4 @@
-# TJ O'Leary
+# TJ OLeary
 
 > *"We exist without skin color, without nationality, without religious bias...
 > My crime is that of curiosity."*
