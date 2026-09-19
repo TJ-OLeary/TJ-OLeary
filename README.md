@@ -46,4 +46,4 @@ of admission.
 📧 timothyoleary [at] protonmail [dot] com
 🔐 [TryHackMe](https://tryhackme.com/p/MITM)
 💀 [Hack The Box](https://app.hackthebox.com/users/tdott84)
-🌐 Site coming soon
+🌐 Sites coming soon
